@@ -43,3 +43,35 @@ PHY431: Quantum Mechanics I
 
 
 ## Post Mid Term Syllabus
+
+| Topic / Subtopic | Diya Notes Pages | Notes 2 Pages | Sakurai Section / Subsection |
+| :--- | :--- | :--- | :--- |
+| **Density Operators** | **1–3, 16** | **2, 19** | **3.4 Density Operators and Pure vs. Mixed Ensembles** |
+| &nbsp;&nbsp;&nbsp;&nbsp;Definition & Ensemble Averages | 1–2 | 2, 19 | 3.4.2 Ensemble Averages and the Density Operator |
+| &nbsp;&nbsp;&nbsp;&nbsp;Pure vs. Mixed States ($\text{Tr}(\rho^2)=1$ vs $<1$) | 3 | 2, 19 | 3.4.1 Polarized Versus Unpolarized Beams |
+| &nbsp;&nbsp;&nbsp;&nbsp;Properties (Hermitian, $\text{Tr}(\rho)=1$) | 16 | 2, 19 | 3.4.2 Ensemble Averages |
+| **Theory of Angular Momentum** | **4–11, 17–20, 27–30** | **5, 15, 17** | **Ch. 3 Theory of Angular Momentum** |
+| &nbsp;&nbsp;&nbsp;&nbsp;Orbital Angular Momentum ($L$) | 4 | — | 3.6 Orbital Angular Momentum |
+| &nbsp;&nbsp;&nbsp;&nbsp;Rotations & Commutation Relations | 5, 27–30 | 5, 15 | 3.1 Rotations and Angular Momentum Commutation Relations |
+| &nbsp;&nbsp;&nbsp;&nbsp;Ladder Operators ($J_\pm$) | 5–6 | — | 3.5.1 Commutation Relations and the Ladder Operators |
+| &nbsp;&nbsp;&nbsp;&nbsp;Eigenvalues & Eigenstates of $J^2, J_z$ | 7–10 | — | 3.5.2 Eigenvalues of J2 and Jz |
+| &nbsp;&nbsp;&nbsp;&nbsp;Matrix Elements & Representations | 11 | 2, 17 | 3.5.3 Matrix Elements / 3.5.4 Rotation Operator |
+| **Spin** | **30–33** | **4, 15** | **3.2 Spin 1/2 Systems and Finite Rotations** |
+| &nbsp;&nbsp;&nbsp;&nbsp;Spin-1/2 Formalism & Eigenspaces | 31 | 15 | 3.2 Spin 1/2 Systems |
+| &nbsp;&nbsp;&nbsp;&nbsp;Pauli Matrices ($\sigma_x, \sigma_y, \sigma_z$) | 32 | 4, 15 | 3.2.4 Pauli Two-Component Formalism |
+| &nbsp;&nbsp;&nbsp;&nbsp;Spin in Arbitrary Direction ($\hat{n} \cdot \vec{S}$) | 33 | 4 | 3.2 Spin 1/2 Systems and Finite Rotations |
+| **Addition of Angular Momentum** | **33–37** | **4, 9, 12** | **3.8 Addition of Angular Momenta** |
+| &nbsp;&nbsp;&nbsp;&nbsp;Formalism (Coupled vs. Uncoupled Basis) | 35 | 4, 12 | 3.8.2 Formal Theory of Angular-Momentum Addition |
+| &nbsp;&nbsp;&nbsp;&nbsp;Clebsch-Gordan Coefficients & Recursion | 36–37 | 9 | 3.8.3 Recursion Relations / 3.8.4 CG Coefficients |
+| **Central Potential Problems** | **11–15, 21–25** | **1, 7, 10, 14, 18, 19** | **3.6 / 3.7 Central Potentials** |
+| &nbsp;&nbsp;&nbsp;&nbsp;Hamiltonian in Spherical Coordinates | 12 | 7, 18 | 3.7 Schrödinger’s Equation for Central Potentials |
+| &nbsp;&nbsp;&nbsp;&nbsp;Spherical Harmonics ($Y_l^m$) | 13–14 | 7, 18 | 3.6.2 Spherical Harmonics |
+| &nbsp;&nbsp;&nbsp;&nbsp;The Radial Equation ($U(r)$) | 15, 21 | 1, 7, 19 | 3.7.1 The Radial Equation |
+| &nbsp;&nbsp;&nbsp;&nbsp;Hydrogen Atom (Exact Solution) | 22–25 | 1, 17 | 3.7.4 The Coulomb Potential |
+| &nbsp;&nbsp;&nbsp;&nbsp;Power Series, Laguerre Poly, Energy Levels | — | 1, 10, 14 | 3.7.4 The Coulomb Potential |
+| **Approximation Methods** | **38** | **3, 8, 11, 22** | **Ch. 5 Approximation Methods** |
+| &nbsp;&nbsp;&nbsp;&nbsp;Variational Method (Theorem & Proof) | 38 | 3, 11 | 5.4 Variational Methods |
+| &nbsp;&nbsp;&nbsp;&nbsp;Applications (Delta Potential, Helium GS) | — | 3, 8, 11, 22 | 5.4 Applications |
+| **Identical Particles** | **—** | **6, 13, 16, 20, 21** | **Ch. 7 Identical Particles** |
+| &nbsp;&nbsp;&nbsp;&nbsp;Permutation Symmetry & Symmetrization | — | 20 | 7.1 Permutation Symmetry / 7.2 Symmetrization |
+| &nbsp;&nbsp;&nbsp;&nbsp;Exchange Forces & Helium Atom | — | 13, 16, 21 | 7.3 Two-Electron System / 7.4 The Helium Atom |
